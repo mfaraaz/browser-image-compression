@@ -87,7 +87,6 @@ Temporary Items
 .apdisk
 
 .idea/
-dist/
 /example/*/yarn.lock
 
 .next/
